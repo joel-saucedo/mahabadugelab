@@ -1,4 +1,4 @@
-# project planning
+# project planning for plasma dynamics in sputtering deposition
 
 Create classes for Atom, Substrate, and RParticles (sputtering deposition simulation). 
 Ensure that these classes contain necessary attributes and methods to handle the atom properties, substrate geometry, and plasma physics parameters.
