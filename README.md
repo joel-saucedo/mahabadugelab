@@ -2,7 +2,7 @@
 Repository for Dr. Mahabaduge's condensed matter research for Fall 2023
 
 
-research intrests:
+# research intrests:
 
 SCAPS-1D -> Solar Cell simulation software
 Simulate Perovskites, Calchogenides, Kesterites, and other emerging thin film technologies
@@ -20,7 +20,7 @@ Plasma specroscopy -> montecarlo/computational modeling for the uv emissions
 MURCE Student Research Circle / Learning Center python bootcamps
 
 
-To do list:
+# To do list:
 
 change the random energy iterations into full montecarlo model for energy distributions. how might the plasma energetics effect distributions?
 
@@ -37,6 +37,6 @@ image processing for future cubesat mission
 ________________________________________________________________________________________________________________________
 
 
-About the Deposition Model:
+# About the Deposition Model:
 Project was started by joel in October 2022. Research presented at NCUR, GSU Perimeter Math Conference
 Has potential to merge analysis with plasma characterization project
