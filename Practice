@@ -1,1 +1,21 @@
+''
+This is a multiline comment or docstring (used) to define functions purpose
+'''
 
+x=1;           #int
+y=2.5          #float
+name='John'    #string
+is_cool=True #bool, you need to capitalize true or false or it will be seen as a variable
+
+#Multiple assignment 
+x, y, name, is_cool=(1,2.5,'John',True) #Same thing we already did but more compact
+print('Hello')
+
+print(type(x))
+
+#casting
+x=str(x)
+y=int(y)
+z=float(y)
+print(type(y),y)
+#end for now
