@@ -1,27 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<molecule>
-  <crystal>
-    <scalar title="a" units="units:angstrom">6.48</scalar>
-    <scalar title="b" units="units:angstrom">6.48</scalar>
-    <scalar title="c" units="units:angstrom">6.48</scalar>
-    <scalar title="alpha" units="units:degree">90</scalar>
-    <scalar title="beta" units="units:degree">90</scalar>
-    <scalar title="gamma" units="units:degree">90</scalar>
-  </crystal>
-  <atomArray>
-    <!-- Cadmium atoms -->
-    <atom id="Cd1" elementType="Cd" xFract="0" yFract="0" zFract="0"/>
-    <atom id="Cd2" elementType="Cd" xFract="0.5" yFract="0.5" zFract="0.5"/>
-    <atom id="Cd3" elementType="Cd" xFract="0.25" yFract="0.25" zFract="0.25"/>
-    <atom id="Cd4" elementType="Cd" xFract="0.75" yFract="0.75" zFract="0.75"/>
-    <!-- Tellurium atoms -->
-    <atom id="Te1" elementType="Te" xFract="0.25" yFract="0.25" zFract="0.25"/>
-    <atom id="Te2" elementType="Te" xFract="0.75" yFract="0.75" zFract="0.75"/>
-    <atom id="Te3" elementType="Te" xFract="0" yFract="0.5" zFract="0.5"/>
-    <atom id="Te4" elementType="Te" xFract="0.5" yFract="0" zFract="0.5"/>
-    <atom id="Te5" elementType="Te" xFract="0.5" yFract="0.5" zFract="0"/>
-    <atom id="Te6" elementType="Te" xFract="0" yFract="0" zFract="0.5"/>
-    <atom id="Te7" elementType="Te" xFract="0" yFract="0.5" zFract="0"/>
-    <atom id="Te8" elementType="Te" xFract="0.5" yFract="0" zFract="0"/>
-  </atomArray>
-</molecule>
+Cd 0.0000 0.0000 0.0000
+Cd 0.0000 3.2400 3.2400
+Cd 3.2400 0.0000 3.2400
+Cd 3.2400 3.2400 0.0000
+Cd 0.0000 1.6200 1.6200
+Cd 1.6200 0.0000 1.6200
+Cd 1.6200 1.6200 0.0000
+Cd 3.2400 1.6200 1.6200
+Cd 1.6200 3.2400 1.6200
+Cd 1.6200 1.6200 3.2400
+Te 1.6200 1.6200 1.6200
+Te 1.6200 4.8600 4.8600
+Te 4.8600 1.6200 4.8600
+Te 4.8600 4.8600 1.6200
