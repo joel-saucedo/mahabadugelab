@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <molecule>
   <crystal>
-    <scalar title="spaceGroup" value="F-43m"/>
     <scalar title="a" units="units:angstrom">6.48</scalar>
     <scalar title="b" units="units:angstrom">6.48</scalar>
     <scalar title="c" units="units:angstrom">6.48</scalar>
