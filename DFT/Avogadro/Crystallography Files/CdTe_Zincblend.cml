@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<molecule>
+  <crystal>
+    <scalar title="spaceGroup" value="F-43m"/>
+    <scalar title="a" units="units:angstrom">6.48</scalar>
+    <scalar title="b" units="units:angstrom">6.48</scalar>
+    <scalar title="c" units="units:angstrom">6.48</scalar>
+    <scalar title="alpha" units="units:degree">90</scalar>
+    <scalar title="beta" units="units:degree">90</scalar>
+    <scalar title="gamma" units="units:degree">90</scalar>
+  </crystal>
+  <atomArray>
+    <!-- Cadmium atoms -->
+    <atom id="Cd1" elementType="Cd" x3="0.0" y3="0.0" z3="0.0"/>
+    <atom id="Cd2" elementType="Cd" x3="1.62" y3="1.62" z3="1.62"/>
+    <!-- Tellurium atoms -->
+    <atom id="Te1" elementType="Te" x3="1.62" y3="1.62" z3="1.62"/>
+    <atom id="Te2" elementType="Te" x3="3.24" y3="3.24" z3="3.24"/>
+  </atomArray>
+  <bondArray>
+    <!-- Bonds can be defined here if necessary -->
+  </bondArray>
+</molecule>
